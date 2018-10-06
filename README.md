@@ -9,6 +9,6 @@ After the Tax Cuts and Jobs Act (TCJA) in the U.S., companies could repatriate o
 
 The companies in this study are S&P 500 index members, the list is sourced from Wikipeida (https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
 
+Data Extraction: parsing_xbrl_github.ipynb + Excel Files of US_GAAP_Taxonomy  
 
-Data Extraction: parsing_xbrl_github.ipynb
-Data Wrangling for Visualization: Analysis.ipynb
+Data Wrangling for Visualization: Analysis.ipynb + Mapping Excel
